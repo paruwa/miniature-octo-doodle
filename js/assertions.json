@@ -1,0 +1,10 @@
+{
+  "simulation": "abx.Rrsf",
+  "simulationId": "rrsf",
+  "start": 1557847555563,
+  "description": "",
+  "scenarios": ["RR Performance Test"],
+  "assertions": [
+
+  ]
+}
